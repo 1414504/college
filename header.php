@@ -10,8 +10,8 @@
                 
                 <div class="col-md-10">
                         
-                       <h1>MY COLLEGE</h1>
-                        <h3>The Best College</h3>
+                       <h1 style="text-align: center">MY COLLEGE</h1>
+                        <h3 style="text-align: center">The Best College</h3>
                         
                 </div>
     
