@@ -4,7 +4,7 @@
     
     
     <div class="row">
-        <div class="col-md-12"><h5><a href="display-college.php">All -Students</a></h5></div>
+        <div class="col-md-12"><h5><a href="show-college.php">All -Students</a></h5></div>
     </div>
     
     

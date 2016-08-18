@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        include './display-college.php';
+        include './show-college.php';
         ?>
     </body>
 </html>
