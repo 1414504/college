@@ -10,7 +10,7 @@
                 
                 <div class="col-md-10">
                         
-                        <div style= " color: red; font-family: Arial text-align: center; font-size: x-large"; College</div>
+                       <h1>MY COLLEGE</h1>
                         <h3>The Best College</h3>
                         
                 </div>
